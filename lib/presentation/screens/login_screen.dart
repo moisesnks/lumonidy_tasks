@@ -19,7 +19,7 @@ class LoginScreen extends StatelessWidget {
     Map<String, String> credentials = {};
 
     if (kDebugMode) {
-      credentials = Utils.getDebugCredential(index: 0);
+      credentials = Utils.getDebugCredential(index: 1);
     }
 
     final emailController =
