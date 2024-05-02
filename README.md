@@ -2,6 +2,11 @@
 
 Lumonidy Tasks es una aplicación móvil diseñada para organizar proyectos utilizando una metodología similar a Scrum. El objetivo principal es proporcionar distintas vistas y gráficos que permitan gestionar tareas de forma eficiente.
 
+## Integrantes:
+El equipo actualmente se compone por: 
+- Moisés Leiva Leiva [mleiva@utem.cl](mleiva@utem.cl)
+- Nicolás Méndez Urzúa [nmendez@utem.cl](nmendez@utem.cl)
+
 ## Diseño y Prototipos
 - **Figma:** Actualmente no  tenemos un Figma como tal, está en desarrollo. ___(se subirán actualizaciones apenas se pueda)___ Pero sí que tenemos vistas de la App del desarrollo actual:
 
