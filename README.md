@@ -6,44 +6,48 @@ Lumonidy Tasks es una aplicación móvil diseñada para organizar proyectos util
 El equipo actualmente se compone por: 
 - Moisés Leiva Leiva [mleiva@utem.cl](mleiva@utem.cl)
 - Nicolás Méndez Urzúa [nmendez@utem.cl](nmendez@utem.cl)
+<h2>Diseño y Prototipos</h2>
+<p><strong>Figma:</strong> Actualmente no tenemos un Figma como tal, está en desarrollo. <em>(se subirán actualizaciones apenas se pueda)</em> Pero sí que tenemos vistas de la App del desarrollo actual:</p>
 
-## Diseño y Prototipos
-- **Figma:** Actualmente no  tenemos un Figma como tal, está en desarrollo. ___(se subirán actualizaciones apenas se pueda)___ Pero sí que tenemos vistas de la App del desarrollo actual:
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-Por supuesto, a continuación te muestro cómo organizar las imágenes con sus respectivas descripciones dentro de tu README:
+  <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <h3>Inicio de Sesión</h3>
+    <img src="docs/1-login.gif" alt="Inicio de Sesión" style="width: 100%; height: auto; object-fit: cover;">
+    <p>Animación del proceso de inicio de sesión con autenticación de Google.</p>
+  </div>
 
-### Diseño y Prototipos
+  <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <h3>Tap Tarea</h3>
+    <img src="docs/2-tap_tarea.gif" alt="Tap Tarea" style="width: 100%; height: auto; object-fit: cover;">
+    <p>Interacción con una tarea en la aplicación, destacando la función de tocar para ver detalles o interactuar con ella.</p>
+  </div>
 
-#### Inicio de Sesión
-<img src="docs/1-login.gif" alt="Inicio de Sesión" style="width: 33%; height: auto; object-fit: cover;">
+  <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <h3>Tap Foto</h3>
+    <img src="docs/3-tap_photo.gif" alt="Tap Foto" style="width: 100%; height: auto; object-fit: cover;">
+    <p>Funcionalidad de tocar para ver detalles de una foto en la aplicación.</p>
+  </div>
 
-Animación del proceso de inicio de sesión con autenticación de Google.
+  <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <h3>Crear Tarea</h3>
+    <img src="docs/4-create-task.gif" alt="Crear Tarea" style="width: 100%; height: auto; object-fit: cover;">
+    <p>Proceso de creación de una nueva tarea en la aplicación.</p>
+  </div>
 
-#### Tap Tarea
-<img src="docs/2-tap_tarea.gif" alt="Tap Tarea" style="width: 33%; height: auto; object-fit: cover;">
+  <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <h3>Eliminar Tarea</h3>
+    <img src="docs/5-delete-task.gif" alt="Eliminar Tarea" style="width: 100%; height: auto; object-fit: cover;">
+    <p>Interacción para eliminar una tarea en la aplicación.</p>
+  </div>
 
-Interacción con una tarea en la aplicación, destacando la función de tocar para ver detalles o interactuar con ella.
+  <div style="flex-basis: 30%; margin-bottom: 20px;">
+    <h3>Logout e Inicio de Sesión</h3>
+    <img src="docs/6-logout-signIn-like-client.gif" alt="Logout e Inicio de Sesión" style="width: 100%; height: auto; object-fit: cover;">
+    <p>Animación que muestra el proceso de cerrar sesión e iniciar sesión en la aplicación.</p>
+  </div>
 
-#### Tap Foto
-<img src="docs/3-tap_photo.gif" alt="Tap Foto" style="width: 33%; height: auto; object-fit: cover;">
-
-Funcionalidad de tocar para ver detalles de una foto en la aplicación.
-
-#### Crear Tarea
-<img src="docs/4-create-task.gif" alt="Crear Tarea" style="width: 33%; height: auto; object-fit: cover;">
-
-Proceso de creación de una nueva tarea en la aplicación.
-
-#### Eliminar Tarea
-<img src="docs/5-delete-task.gif" alt="Eliminar Tarea" style="width: 33%; height: auto; object-fit: cover;">
-
-Interacción para eliminar una tarea en la aplicación.
-
-#### Logout e Inicio de Sesión
-<img src="docs/6-logout-signIn-like-client.gif" alt="Logout e Inicio de Sesión" style="width: 33%; height: auto; object-fit: cover;">
-
-Animación que muestra el proceso de cerrar sesión e iniciar sesión en la aplicación.
-
+</div>
 
 ## Características Principales
 
